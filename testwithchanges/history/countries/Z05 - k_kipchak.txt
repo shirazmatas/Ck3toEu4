@@ -1,0 +1,42 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 2
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 475
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yasar"
+		dynasty = "Kotyan"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1377.11.13
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = industrious_personality
+	heir = {
+		name = "Ovlur"
+		monarch_name = "Ovlur"
+		dynasty = "Alprid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1415.3.8
+		death_date = 1480.3.8
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 52
+}

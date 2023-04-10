@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = english_monarchy
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = dynamic-daju-zaghawa-culture-num1
+capital = 2932
+1444.11.11= {
+	monarch = {
+		name = "Anqarib"
+		dynasty = "Kayi"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1423.11.8
+		religion = coptic
+		culture = dynamic-daju-zaghawa-culture-num1
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Tadla"
+		dynasty = "Hadendoa-Geili"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = WAD
+		birth_date = 1422.1.7
+		death_date = 1482.1.7
+		female = yes
+		religion = coptic
+		culture = dynamic-beja-nubian-culture-num1
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Kubuy"
+		monarch_name = "Kubuy"
+		dynasty = "Kayi"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1425.3.3
+		death_date = 1490.3.3
+		female = yes
+		claim = 89
+		religion = coptic
+		culture = dynamic-daju-zaghawa-culture-num1
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 63
+	add_treasury = 70
+}

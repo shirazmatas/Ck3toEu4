@@ -1,0 +1,108 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 108 153 65 }
+revolutionary_colors = { 4 15 4 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Aigiarn #0" = -1
+	"Alp Arslan #0" = 0
+	"Altan #0" = 0
+	"Bagaridai #0" = 0
+	"Conchaka #0" = -1
+	"Gur #0" = 0
+	"Ilkay #0" = -1
+	"Ilqa Sangun #1" = 10
+	"Jagambu #0" = 0
+	"Jochi #0" = 0
+	"Khulan #0" = -1
+	"Kitbuqa #0" = 0
+	"Korchi #0" = 0
+	"Mandukhai #0" = -1
+	"Nomolun #0" = -1
+	"Qorisu Dayir #1" = 10
+	"Toqto'a #0" = 0
+	"Yesugun #0" = -1
+	"al-Alta #0" = -1
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

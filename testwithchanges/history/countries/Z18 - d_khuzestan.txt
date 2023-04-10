@@ -1,0 +1,37 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = muslim
+religion = nestorian
+primary_culture = mervi
+capital = 412
+add_accepted_culture = dynamic-bedouin_arabic-persian-oghuz-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = nestorian
+		culture = mervi
+	}
+	heir = {
+		name = "Rastin"
+		dynasty = "Barsid"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1430.2.16
+		death_date = 1495.2.16
+		claim = 89
+		religion = nestorian
+		culture = mervi
+	}
+}
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 57
+}

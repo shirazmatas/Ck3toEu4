@@ -1,0 +1,134 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 98 138 99 }
+revolutionary_colors = { 8 9 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Anawrahta #1" = 10
+	"Chandaladevi #0" = -1
+	"Devavati #0" = -1
+	"Dorjne #0" = -1
+	"Gandharavati #0" = -1
+	"Gangambika #0" = -1
+	"Gébum #0" = 0
+	"Hari Singh #0" = 0
+	"Hein #1" = 10
+	"Heman #0" = -1
+	"Kalyanavati #0" = -1
+	"Khant #0" = 0
+	"Kundakadevi #0" = -1
+	"Kyaswa #0" = 0
+	"Kyiso #1" = 10
+	"Marlar #0" = -1
+	"Pelgönsé #0" = 0
+	"Phway #0" = -1
+	"Popatraj #0" = 0
+	"Prithipala #0" = 0
+	"Pulai #1" = -1
+	"Rajabhata #0" = 0
+	"Samyukta #0" = -1
+	"Sattiyavvai #0" = -1
+	"Siha #1" = 10
+	"Sovideva #0" = 0
+	"Thandar #0" = -1
+	"Thukha #2" = 10
+	"Ukka #1" = 10
+	"Uzana #1" = 10
+	"Vijaynarayan #0" = 0
+}
+leader_names = {
+	"Ava"
+	"Banyin"
+	"Bawnin"
+	"Bawzaing"
+	"Bhamo"
+	"Hopon"
+	"Kale"
+	"Kokang"
+	"Kyaingchaing"
+	"Kyaingkan"
+	"Kyaingtong"
+	"Kyaukku"
+	"Kyithi Bansan"
+	"Kyon"
+	"Lwee"
+	"Lwelong"
+	"Lwemaw"
+	"Lègya"
+	"Maingpyin"
+	"Maingseik"
+	"Maington"
+	"Manglon"
+	"Maukme"
+	"Maw"
+	"Mobye"
+	"Mogaung"
+	"Mohnyin"
+	"Momeik"
+	"Mong Pan"
+	"Monghsu"
+	"Mongleam"
+	"Monglin"
+	"Mongnawng"
+	"Mongtorm"
+	"Monè"
+	"Mönglong"
+	"Möngyawng"
+	"Nanke"
+	"Nankok"
+	"Nankon"
+	"Nantok"
+	"Nyaungshwe"
+	"Panglawng"
+	"Pangmi"
+	"Pindara"
+	"Poila"
+	"Sakoi"
+	"Samka"
+	"Tawngpeng"
+	"Thamaingkan"
+	"Thaton"
+	"Thaungdut"
+	"Theinni"
+	"Thibaw"
+	"Thigyit"
+	"Wynn Tho"
+	"Yatsauk"
+	"Yengan"
+}
+ship_names = {
+	"Hsim"
+	"Inle"
+	"Kengtong"
+	"Lui"
+	"Myitnge"
+	"Nam"
+	"Pilu"
+	"Saluen"
+	"Salween"
+	"Shweli"
+	"Tachileik"
+	"Taunggyi"
+	"Teng"
+	"Thanlwin"
+}
+special_unit_culture = south_east_asian_special

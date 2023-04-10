@@ -1,0 +1,88 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 102 128 52 }
+revolutionary_colors = { 1 5 9 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	religious_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	durrani_dragoon
+	durrani_rifled_musketeer
+	durrani_swivel
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abd al-Rashid #1" = 10
+	"Ali #1" = 10
+	"Anokhi #0" = -1
+	"Chisom #0" = -1
+	"Damodar #0" = 0
+	"Farrukhzad #1" = 10
+	"Garyupleh #0" = 0
+	"Gitika Gujri #0" = -1
+	"Hafiz #0" = 0
+	"Ibrahim #1" = 10
+	"Ismail #1" = 10
+	"Kad #0" = 0
+	"Kehar #1" = 10
+	"Kishan #0" = -1
+	"Lavanthika #0" = -1
+	"Laxman #1" = 10
+	"Lyukha #0" = -1
+	"Mahmud #1" = 10
+	"Masud #1" = 10
+	"Mawdud #1" = 10
+	"Merîvan #0" = -1
+	"Muhammad #1" = 10
+	"Musud #1" = 10
+	"Narayan Nirjitavarman #0" = 0
+	"Nodha #1" = 10
+	"Ouankoy #0" = 0
+	"Sabuktigin #1" = 10
+	"Salhana #1" = 10
+	"Samgramapida #0" = 0
+	"Tyutyuk #0" = 0
+}
+leader_names = {
+	"Ahmad"
+	"Akhund"
+	"Amin"
+	"Ghazi"
+	"Hotaki"
+	"Karmal"
+	"Najibullah"
+	"Qadir"
+	"Rahman"
+	"Taraki"
+}
+ship_names = {
+	"Arghandab"
+	"Balkh"
+	"Dasht"
+	"Farah"
+	"Harirud"
+	"Harut"
+	"Hingol"
+	"Kabol"
+	"Kech"
+	"Khash"
+	"Kowkcheh"
+	"Murghab"
+	"Zhob"
+}

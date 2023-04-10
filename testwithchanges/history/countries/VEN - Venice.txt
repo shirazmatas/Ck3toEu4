@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = converted_dynamic_faith_107
+primary_culture = dynamic-italian-occitain-culture-num1
+capital = 112
+add_accepted_culture = venetian
+1444.11.11= {
+	monarch = {
+		name = "Raimonda"
+		dynasty = "Bourgogne"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1408.5.2
+		female = yes
+		religion = converted_dynamic_faith_107
+		culture = dynamic-italian-occitain-culture-num1
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = free_thinker_personality
+	queen = {
+		name = "Benedetto"
+		dynasty = "of Bílina"
+		adm = 2
+		dip = 4
+		mil = 2
+		country_of_origin = VEN
+		birth_date = 1422.9.27
+		death_date = 1482.9.27
+		religion = converted_dynamic_faith_107
+		culture = italian
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Benedetto"
+		monarch_name = "Benedetto"
+		dynasty = "Bourgogne"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1440.8.10
+		death_date = 1505.8.10
+		claim = 89
+		religion = converted_dynamic_faith_107
+		culture = dynamic-italian-occitain-culture-num1
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 41
+}
