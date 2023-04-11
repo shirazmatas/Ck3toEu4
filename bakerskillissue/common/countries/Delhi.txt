@@ -1,0 +1,106 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 157 200 42 }
+revolutionary_colors = { 10 4 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Akal #0" = -1
+	"Amul #0" = 0
+	"Annaladevi #0" = -1
+	"Apara Gangeya #0" = 0
+	"Bhojavarman #0" = 0
+	"Bhumpala #0" = 0
+	"Candrabhattarikadevi #0" = -1
+	"Chachiga #0" = 0
+	"Devendravarman #0" = 0
+	"Dhruvasvamini #0" = -1
+	"Dungar-Singh #0" = 0
+	"Harhsa #0" = -1
+	"Harihara #0" = 0
+	"Jaitra-Singh #2" = 10
+	"Jaskarn #0" = 0
+	"Jayasimha #1" = 10
+	"Jhetpal #0" = 0
+	"Kakanvati #0" = -1
+	"Kalayandevi #0" = -1
+	"Kanwar #0" = -1
+	"Kumaradevi #0" = -1
+	"Laxmidevi #0" = -1
+	"Luntiga #0" = 0
+	"Mahap #0" = 0
+	"Padmini #0" = -1
+	"Pratha #0" = -1
+	"Rajamati #0" = -1
+	"Rudrani #0" = -1
+	"Sallaksanavarman #1" = 10
+	"Sanyukta #0" = -1
+	"Sharva #0" = 0
+	"Shenden #0" = -1
+	"Shrimitradevi #0" = -1
+	"Srichandra #0" = 0
+	"Suhava #0" = -1
+	"Susthitavarman #0" = 0
+	"Valhanadeva #0" = 0
+	"Vijada-Dasasyandana #0" = 0
+}
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lohia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Ra'ana"
+	"Sharif"
+	"Sharma"
+	"Sinan"
+	"Singh"
+	"Viqar-ul-Mulk"
+}
+ship_names = {
+	"Alia"
+	"Chambal"
+	"Fatimah"
+	"Ganges"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Spiti"
+	"Yamuna"
+	"Yasmine"
+}

@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = orthodox
+primary_culture = georgian
+capital = 1856
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Bagrat"
+		dynasty = "Bagrationi"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1385.1.20
+		religion = orthodox
+		culture = georgian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = inspiring_leader_personality
+	queen = {
+		name = "Rhodanthe"
+		dynasty = "Doukas"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z0C
+		birth_date = 1407.5.2
+		death_date = 1467.5.2
+		female = yes
+		religion = orthodox
+		culture = greek
+	}
+	add_queen_personality = calm_personality
+	add_queen_personality = just_personality
+	heir = {
+		name = "Demetre"
+		monarch_name = "Demetre"
+		dynasty = "Bagrationi"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1418.9.21
+		death_date = 1483.9.21
+		claim = 89
+		religion = orthodox
+		culture = georgian
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 98
+	add_treasury = 63
+}

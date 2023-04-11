@@ -1,0 +1,113 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 233 88 88 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ammaiyâlvi #0" = -1
+	"Annama #0" = 0
+	"Ariñcaya #1" = 10
+	"Arulmolivarman #1" = 10
+	"Atirâjêntira #4" = 10
+	"Bachavarudhini #0" = 0
+	"Betana #0" = 0
+	"Cankâni #0" = -1
+	"Ceyyacôlam #0" = -1
+	"Ceyyavâymani #0" = -1
+	"Chaacko #0" = 0
+	"Chandaladevi #0" = -1
+	"Cuntara #1" = 10
+	"Devarakita #0" = -1
+	"Eappen #1" = 10
+	"Eccavarâkan #0" = 0
+	"Gémathar #0" = -1
+	"Irâcarâca #0" = 0
+	"Irâcâcekara #1" = 10
+	"Irâcâtirâca #1" = 10
+	"Irâcêntira #2" = 10
+	"Kadarangkonda #0" = 0
+	"Kamambika #0" = -1
+	"Kanaguta #0" = -1
+	"Kantarâtitta #1" = 10
+	"Kunapûsana #0" = 0
+	"Kunavîra #0" = 0
+	"Kôpperuñcimman #0" = 0
+	"Lakshmi #0" = -1
+	"Mahâdeviyâr #0" = -1
+	"Maka #0" = -1
+	"Makêntiravarman #0" = 0
+	"Mañcavi #0" = -1
+	"Mânikkam #0" = -1
+	"Nagasani #0" = 0
+	"Nankaiyâr #0" = -1
+	"Orriâlvi #0" = -1
+	"Parântaka #1" = 10
+	"Peruñcintevar #0" = 0
+	"Piramaccâni #0" = -1
+	"Sosamma #0" = -1
+	"Têvânrâl #0" = -1
+	"Utaiyañceytâl #0" = -1
+	"Uttama #1" = 10
+	"Viranârâyanapattan #0" = 0
+	"Vîrarâcêntira #2" = 10
+}
+leader_names = {
+	"Chetty"
+	"Dalawa"
+	"Mudaliar"
+	"Nayak"
+	"Rajapopalachari"
+	"Saluva"
+	"Saraf"
+	"Sastri"
+	"Senji"
+	"Thondaiman"
+}
+ship_names = {
+	"Amirtha"
+	"Amman"
+	"Arul"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Iniya"
+	"Kaveri"
+	"Lakshmi"
+	"Madhu"
+	"Meenakshi"
+	"Nalini"
+	"Palar"
+	"Parvati"
+	"Pennar"
+	"Ponnaiyar"
+	"Ponni"
+	"Radha"
+	"Ratri"
+	"Sarasvati"
+	"Sita"
+	"Tamarai"
+	"Vaigai"
+}

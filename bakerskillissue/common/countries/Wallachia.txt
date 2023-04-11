@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 161 126 128 }
+revolutionary_colors = { 14 8 4 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aarif #0" = 0
+	"Bernardin #0" = 0
+	"Boleslav #0" = 0
+	"Claudiu #1" = 10
+	"Dionysios #0" = 0
+	"Eustathia #0" = -1
+	"Felicia #0" = -1
+	"Feodora #0" = -1
+	"Gheorghe #1" = 10
+	"Hektorios #1" = 10
+	"Innokentios #0" = 0
+	"Isaakios #0" = 0
+	"Jerolim #0" = 0
+	"Jovan #0" = 0
+	"Laurentios #0" = 0
+	"Margarita #0" = -1
+	"Mstislav #1" = 10
+	"Raya #0" = -1
+	"Rostislava #1" = -1
+	"Sophia #0" = -1
+	"Stefania #0" = -1
+	"Tudor #1" = 10
+	"Vasile #0" = 0
+	"Vasilica #0" = -1
+	"Vasiliy #1" = 10
+	"Vlad #0" = 0
+	"Vojnomir #0" = 0
+	"Vsevolod #0" = 0
+	"Yaroslav #1" = 10
+	"Zenobios #0" = 0
+	"Ágnes #0" = -1
+}
+leader_names = {
+	"Basarab"
+	"Brâncoveanu"
+	"Cantacuzino"
+	"Caragea"
+	"Craiovescu"
+	"Dracul"
+	"Duca"
+	"Ghica"
+	"Golescu"
+	"Ilias"
+	"Ipsilanti"
+	"Mavrocordat"
+	"Mircea"
+	"Moruzi"
+	"Racovita"
+	"Sutu"
+	"Tepelus"
+	"Tolmay"
+	"Vacarescu"
+	"Voda"
+}
+ship_names = {
+	"Atacul de noapte"
+	"Calugareni"
+	"Dracul"
+	"Frumuseatsa valurilor"
+	"Litovoi"
+	"Posada"
+	"Putera"
+	"Rovine"
+	"Sirmium"
+	"Sperietoaria"
+	"Viteazul"
+	"mari"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

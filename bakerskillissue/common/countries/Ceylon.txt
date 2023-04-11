@@ -1,0 +1,79 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 60 123 65 }
+revolutionary_colors = { 9 6 4 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aggabodhi #1" = 10
+	"Agibuti #0" = 0
+	"Antoni #0" = 0
+	"Apaya #1" = 10
+	"Arulmolinangai #0" = -1
+	"Asadaguta #0" = -1
+	"Bhutivarman #0" = 0
+	"Dappula #1" = 10
+	"Digakassapa #0" = 0
+	"Hujata #2" = 10
+	"Kanaguta #0" = -1
+	"Kituka #0" = -1
+	"Lavanyakarna #0" = 0
+	"Mahanaga #1" = 10
+	"Malnathadeva #0" = 0
+	"Moggallana #0" = 0
+	"Sena #1" = 10
+	"Skandavarman #0" = 0
+	"Sobika #1" = 10
+	"Sudata #3" = 10
+	"Surakita #1" = 10
+	"Thirumalambike #0" = -1
+}
+leader_names = {
+	"Atapattu"
+	"Chandana"
+	"Jayaratne"
+	"Jayawardene"
+	"Kalpage"
+	"Pushpakumara"
+	"Ranga"
+	"Ratnayake"
+	"Thilakaratne"
+	"Tillekaratne"
+}
+ship_names = {
+	"Anaradhapura"
+	"Anula"
+	"Jaffna"
+	"Kandy"
+	"Mahaweli"
+	"Mannar"
+	"Nil Manel"
+	"Palk"
+	"Pidurutalagala"
+	"Siddhartha"
+	"Sigiriya"
+	"Sinharaja"
+	"Sirimavo"
+	"Sri Maha Bodhi"
+	"Sri Pada"
+}

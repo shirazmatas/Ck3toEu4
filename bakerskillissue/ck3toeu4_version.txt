@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.12L "Lollard"
+* Compatible with CK3 [v1.6-v1.8] and EU4 [v1.34]
+* Built on Sat Apr  1 10:18:55 2023
+*************************** + CK3 To EU4 + ***************************

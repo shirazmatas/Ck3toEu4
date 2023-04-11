@@ -1,0 +1,98 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 60 140 70 }
+revolutionary_colors = { 10 8 13 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abbas #0" = 0
+	"Adilah #0" = -1
+	"Adilia #0" = -1
+	"Adrir #1" = 10
+	"Afaghis #0" = 0
+	"Agdun #1" = 10
+	"Agellid #0" = 0
+	"Amira #0" = -1
+	"Bakka #0" = -1
+	"Bilqis #0" = -1
+	"Bisi #0" = 0
+	"Chepa #0" = 0
+	"Guraya #0" = -1
+	"Himmi #1" = 10
+	"Ighlaf #0" = 0
+	"Kwella #0" = -1
+	"Manhtee #0" = 0
+	"Massa #0" = -1
+	"Massnsen #0" = 0
+	"Matiya #1" = 10
+	"Musa #1" = 10
+	"Olumuyiwa #0" = 0
+	"Tanebdatt #0" = -1
+	"Tarifa #0" = -1
+	"Zayar #1" = 10
+	"Zwina #0" = -1
+	"al-Mansur #1" = 10
+	"an-Nasir #1" = 10
+}
+leader_names = {
+	"Abi Youcef"
+	"Ait Akerma"
+	"Ait Aouggacha"
+	"Ait Aïssi"
+	"Ait Djennad"
+	"Ait Douala"
+	"Ait Fraoussen"
+	"Ait Ghobri"
+	"Ait Idjer"
+	"Ait Iraten"
+	"Maatka"
+}
+ship_names = {
+	"Akhir"
+	"Awwal"
+	"Ba'ith"
+	"Barr"
+	"Batin"
+	"Hamid"
+	"Haqq"
+	"Hayy"
+	"Majid"
+	"Matin"
+	"Mu'akhkhir"
+	"Mu'id"
+	"Mubdi"
+	"Muhsi"
+	"Muhyi"
+	"Mumit"
+	"Muqaddim"
+	"Muqtadir"
+	"Muta'al"
+	"Qadir"
+	"Qawiyy"
+	"Qayyum"
+	"Samad"
+	"Shahid"
+	"Wahid"
+	"Wajed"
+	"Wakil"
+	"Wali"
+	"Waliyy"
+	"Zahir"
+}
