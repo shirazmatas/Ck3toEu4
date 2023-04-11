@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = LIT
+controller = LIT
 capital = "Vilna"
 is_city = yes
 culture = czech
@@ -13,6 +13,7 @@ extra_cost = 8
 center_of_trade = 1
 add_core = BOH
 add_core = POL
+add_core = LIT
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian
