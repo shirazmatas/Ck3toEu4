@@ -1,9 +1,13 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 197 92 106 }
-revolutionary_colors = { 5 0 5 }
+color = {
+	197 92 106 
+}
+revolutionary_colors = {
+	5 0 5 
+}
 historical_idea_groups = {
-	diplomatic_ideas
+	 diplomatic_ideas
 	humanist_ideas
 	trade_ideas
 	offensive_ideas
@@ -13,7 +17,7 @@ historical_idea_groups = {
 	quality_ideas
 }
 historical_units = {
-	bardiche_infantry
+	 bardiche_infantry
 	eastern_carabinier
 	eastern_knights
 	eastern_militia
@@ -30,26 +34,43 @@ historical_units = {
 	slavic_stradioti
 }
 monarch_names = {
-	"Adam #0" = 0
-	"Alžbeta #0" = -1
-	"Ardoino #0" = 0
-	"Bertha #0" = -1
-	"Borel #0" = 0
-	"Clarmonda #0" = -1
-	"Diviš #0" = 0
-	"Gandolf #0" = 0
-	"Hemma #0" = -1
-	"Heralt #0" = 0
-	"Konstancie #0" = -1
-	"Markéta #0" = -1
-	"Strachkvas #0" = 0
-	"Svatava #1" = -1
-	"Velen #1" = 10
-	"Vznata #1" = 10
-	"Wielislaw #0" = 0
+	 "Adam #0"
+	0
+	"Alï¿½beta #0"
+	-1
+	"Ardoino #0"
+	0
+	"Bertha #0"
+	-1
+	"Borel #0"
+	0
+	"Clarmonda #0"
+	-1
+	"Diviï¿½ #0"
+	0
+	"Gandolf #0"
+	0
+	"Hemma #0"
+	-1
+	"Heralt #0"
+	0
+	"Konstancie #0"
+	-1
+	"Markï¿½ta #0"
+	-1
+	"Strachkvas #0"
+	0
+	"Svatava #1"
+	-1
+	"Velen #1"
+	10
+	"Vznata #1"
+	10
+	"Wielislaw #0"
+	0
 }
 leader_names = {
-	"Arciszewski"
+	 "Arciszewski"
 	"Benyowski"
 	"Bidzinski"
 	"Bielinski"
@@ -80,7 +101,7 @@ leader_names = {
 	"Grudzinski"
 	"Grzymultowski"
 	"Gurowski"
-	"Górka"
+	"Gï¿½rka"
 	"Herburt"
 	"Houwaldt"
 	"Hylzen"
@@ -127,7 +148,7 @@ leader_names = {
 	"Opacki"
 	"Oporowski"
 	"Ossolinski"
-	"Ostroróg"
+	"Ostrorï¿½g"
 	"Ostrowski"
 	"Ozarowski"
 	"Paniewski"
@@ -178,7 +199,7 @@ leader_names = {
 	"Zebrzydowski"
 }
 ship_names = {
-	"Arka Noego"
+	 "Arka Noego"
 	"Belzkie"
 	"Bialy Lew"
 	"Bialy Orzel"
@@ -198,13 +219,13 @@ ship_names = {
 	"Kaliskie"
 	"Kijowskie"
 	"Krakowskie"
-	"Kraków"
-	"Król Dawid"
+	"Krakï¿½w"
+	"Krï¿½l Dawid"
 	"Latajacy Jelen"
 	"Leczyckie"
 	"Lubelskie"
 	"Lublin"
-	"Lwów"
+	"Lwï¿½w"
 	"Malborskie"
 	"Maly Bialy Orzel"
 	"Mazowieckie"
@@ -232,8 +253,8 @@ ship_names = {
 	"Wodnik"
 	"Wolynskie"
 	"Zwyciestwo"
-	"Zólty Lew"
+	"Zï¿½lty Lew"
 }
 army_names = {
-	"Armia z $PROVINCE$"
+	 "Armia z $PROVINCE$"
 }

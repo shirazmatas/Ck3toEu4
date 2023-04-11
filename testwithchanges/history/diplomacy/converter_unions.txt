@@ -16,6 +16,14 @@ union=
 
 union=
 {
+	first="HAB"
+	second="HUN"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
 	first="Z0N"
 	second="Z29"
 	start_date="1444.11.11"
