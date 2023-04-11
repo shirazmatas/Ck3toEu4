@@ -1,5 +1,5 @@
-owner = POL
-controller = POL
+owner = LIT
+controller = LIT
 capital = "Trakai"
 is_city = yes
 culture = lithuanian
