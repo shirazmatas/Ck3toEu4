@@ -32,7 +32,7 @@ historical_units = {
 }
 monarch_names = {
 	"Agn0 #0" = -1
-	"Albertas #0" = 0
+	"Lucas #0" = 0
 	"Aleksandras #0" = 20
 	"Algirdas #1" = 10
 	"Andrius #0" = 0
