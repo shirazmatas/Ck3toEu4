@@ -1,5 +1,5 @@
 name = "Tiny PP Game"
-path = "mod/bakerskillissue"
+path = "mod/testwithchanges"
 normal_or_historical_nations = yes
 supported_version = "1.34.*"
 replace_path = "history/countries/"
